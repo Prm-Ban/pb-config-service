@@ -41,8 +41,8 @@ spring:
     active: native
   cloud:
      config:
-       discovery:
-         enabled: true
+#       discovery:
+#         enabled: true
        server:
            native:
 #              searchLocations: file://<chapter 3>/confsvr/src/main/resources/config/licensingservice,
