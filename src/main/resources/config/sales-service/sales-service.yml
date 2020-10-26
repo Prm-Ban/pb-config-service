@@ -12,6 +12,7 @@ spring.datasource.platform:  "postgres"
 #spring.jpa.hibernate.ddl-auto: create
 spring.database.driverClassName: "org.postgresql.Driver"
 spring.datasource.url: "jdbc:postgresql://localhost:5432/salesorder"
+#spring.datasource.url: "jdbc:postgresql://database:5432/salesorder"
 #spring.datasource.username: "postgres"
 #spring.datasource.password: "{cipher}4788dfe1ccbe6485934aec2ffeddb06163ea3d616df5fd75be96aadd4df1da91"
 #spring.datasource.url: "jdbc:postgresql://localhost:5432/eagle_eye_local"
